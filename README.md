@@ -22,18 +22,8 @@
 
 ---
 
-## `01. Sobre mí`
+## `Sobre mí`
 
-```bash
-$ whoami
-Steven Hernandez
-
-$ current_status
-Desarrollador en formación
-
-$ mission
-Aprender, construir y mejorar continuamente.
-```
 
 ¡Hola! 👋 Soy **Steven Hernandez**, un apasionado por la programación, la tecnología y el desarrollo de software.
 
@@ -53,7 +43,7 @@ Creo que la mejor manera de aprender a programar es construir, equivocarse, inve
 
 ---
 
-## `02. Tech Stack`
+## `Tech Stack`
 
 Estas son las tecnologías con las que trabajo o que estoy aprendiendo.
 
