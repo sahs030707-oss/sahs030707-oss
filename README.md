@@ -1,4 +1,3 @@
-## Hi there 👋
 <!--
   README DE PERFIL DE GITHUB
   Steven Hernandez
@@ -7,7 +6,7 @@
 
 <div align="center">
 
-# `> Steven Hernandez_`
+# `Steven Hernandez`
 
 ### `Desarrollador en formación | Construyendo ideas con código`
 
