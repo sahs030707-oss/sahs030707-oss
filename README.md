@@ -79,105 +79,7 @@ Estas son las tecnologías con las que trabajo o que estoy aprendiendo.
 
 ---
 
-## `03. Proyectos destacados`
-
-Aquí encontrarás algunos de los proyectos en los que trabajo, practico y aplico mis conocimientos.
-
-### ☕ Purísimo Café — Sistema de facturación
-
-**Tipo:** Sistema de gestión y facturación para una cafetería.
-
-Proyecto orientado a la gestión de las operaciones de una cafetería mediante un sistema de información conectado a una base de datos.
-
-**Funcionalidades y áreas del proyecto:**
-- Gestión de productos y categorías.
-- Administración de proveedores y compras.
-- Control de existencias e inventario.
-- Registro de facturas y detalles de venta.
-- Actualización de existencias según compras y ventas.
-
-**Tecnologías:** C#, SQL Server y desarrollo web, según los componentes del proyecto.
-
-[📂 Ver repositorio del sistema]([https://github.com/sahs030707-oss/PaginaWeb_PurisimoCafe.git])
-
----
-
-### 📱 Purísimo Café — Aplicación móvil
-
-**Tipo:** Desarrollo de aplicaciones móviles.
-
-Proyecto de aplicación móvil con Flutter y Dart, en el que trabajo para mejorar mis conocimientos sobre la creación de interfaces y la estructura de aplicaciones.
-
-**Áreas de aprendizaje:**
-- Construcción de interfaces mediante widgets.
-- Organización del código Dart.
-- Navegación entre pantallas.
-- Diseño y personalización de interfaces.
-- Integración con servicios y datos, según las funcionalidades implementadas.
-
-**Tecnologías:** Flutter y Dart.
-
-[📂 Ver repositorio de la aplicación móvil](https://github.com/TU_USUARIO/TU_REPOSITORIO_MOVIL)
-
----
-
-### 🗄️ Prácticas de programación y bases de datos
-
-**Tipo:** Aprendizaje y desarrollo de habilidades técnicas.
-
-Un espacio para mis ejercicios, pruebas y pequeños proyectos relacionados con la programación y el manejo de datos.
-
-**Temas que practico:**
-- Consultas SQL y filtrado de registros.
-- Modelado y organización de bases de datos.
-- Fundamentos de C# y programación orientada a objetos.
-- Resolución de problemas mediante código.
-- Exploración de herramientas y tecnologías nuevas.
-
-[📂 Explorar mis repositorios](https://github.com/TU_USUARIO?tab=repositories)
-
----
-
-## `04. Mi forma de aprender`
-
-```text
-┌─────────────────────────────────────┐
-│                                     │
-│   01  APRENDER                      │
-│       Comprender los fundamentos.   │
-│                                     │
-│   02  PRACTICAR                     │
-│       Aplicar lo aprendido.         │
-│                                     │
-│   03  CONSTRUIR                     │
-│       Desarrollar proyectos reales. │
-│                                     │
-│   04  MEJORAR                       │
-│       Analizar, corregir y avanzar. │
-│                                     │
-└─────────────────────────────────────┘
-```
-
-No busco únicamente escribir código que funcione. Quiero comprender por qué funciona, cómo está organizado y qué puedo hacer para mejorarlo.
-
-Cada proyecto es una oportunidad para desarrollar mi lógica, fortalecer mis fundamentos y acercarme a mis objetivos como desarrollador.
-
----
-
-## `05. Objetivos actuales`
-
-- [ ] Seguir fortaleciendo mis conocimientos de C# y POO.
-- [ ] Mejorar mis habilidades con Flutter y Dart.
-- [ ] Profundizar en SQL Server y el diseño de bases de datos.
-- [ ] Construir aplicaciones mejor estructuradas.
-- [ ] Aprender buenas prácticas de desarrollo de software.
-- [ ] Documentar mis proyectos y compartir mi progreso.
-
-*Esta lista refleja objetivos de aprendizaje y puede actualizarse a medida que avance.*
-
----
-
-## `06. Conecta conmigo`
+## `Conecta conmigo`
 
 Si quieres conocer mis proyectos, seguir mi progreso o compartir conocimientos sobre programación, puedes encontrarme aquí:
 
@@ -194,7 +96,7 @@ Si quieres conocer mis proyectos, seguir mi progreso o compartir conocimientos s
 
 <div align="center">
 
-### `$ echo "Gracias por visitar mi perfil"`
+###  '"Gracias por visitar mi perfil"`
 
 **Siempre aprendiendo. Siempre construyendo. Siempre mejorando.**
 
