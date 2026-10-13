@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# `Steven Hernandez`
+# `Steven Hernández Sevilla`
 
 ### `Desarrollador en formación | Construyendo ideas con código`
 
@@ -88,7 +88,7 @@ Si quieres conocer mis proyectos, seguir mi progreso o compartir conocimientos s
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_PERFIL/)
 
-📧 **Correo:** TU_CORREO
+📧 **Correo:** sahs030707@gmail.com
 
 </div>
 
@@ -97,8 +97,6 @@ Si quieres conocer mis proyectos, seguir mi progreso o compartir conocimientos s
 <div align="center">
 
 ###  '"Gracias por visitar mi perfil"`
-
-**Siempre aprendiendo. Siempre construyendo. Siempre mejorando.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:064e3b,100:020617&height=100&section=footer" width="100%" alt="Pie de página tecnológico"/>
 
