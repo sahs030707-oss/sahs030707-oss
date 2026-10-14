@@ -1,9 +1,3 @@
-<!--
-  README DE PERFIL DE GITHUB
-  Steven Hernandez
-  Personaliza los enlaces marcados como TU_USUARIO y TU_REPOSITORIO.
--->
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:020617,50:064e3b,100:06b6d4&text=CODE%20%7C%20LEARN%20%7C%20BUILD&fontColor=ffffff&fontSize=30&fontAlignY=55&animation=fadeIn&stroke=06b6d4&strokeWidth=1" width="100%" alt="Banner tecnológico"/>
 
@@ -68,12 +62,9 @@ Estas son las tecnologías con las que trabajo o que estoy aprendiendo.
 
 ## `Conecta conmigo`
 
-Si quieres conocer mis proyectos, seguir mi progreso o compartir conocimientos sobre programación, puedes encontrarme aquí:
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_PERFIL/)
 
 📧 **Correo:** sahs030707@gmail.com
 
