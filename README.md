@@ -5,13 +5,6 @@
 -->
 
 <div align="center">
-
-# `Steven Hernández Sevilla`
-
-### `Desarrollador en formación | Construyendo ideas con código`
-
-💻 Aprendiendo, experimentando y convirtiendo ideas en proyectos reales.
-
 <img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:020617,50:064e3b,100:06b6d4&text=CODE%20%7C%20LEARN%20%7C%20BUILD&fontColor=ffffff&fontSize=30&fontAlignY=55&animation=fadeIn&stroke=06b6d4&strokeWidth=1" width="100%" alt="Banner tecnológico"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/sahs030707-oss)
@@ -27,10 +20,6 @@
 
 ¡Hola! 👋 Soy **Steven Hernandez**, un apasionado por la programación, la tecnología y el desarrollo de software.
 
-Me gusta aprender cómo funcionan las cosas, experimentar con nuevas herramientas y llevar los conocimientos de la teoría a proyectos que resuelvan problemas reales.
-
-Actualmente estoy fortaleciendo mis habilidades en **desarrollo de aplicaciones móviles con Flutter y Dart, programación con C#, programación orientada a objetos y gestión de bases de datos**.
-
 Creo que la mejor manera de aprender a programar es construir, equivocarse, investigar y volver a intentarlo.
 
 - 📱 Explorando el desarrollo de aplicaciones móviles.
@@ -38,8 +27,6 @@ Creo que la mejor manera de aprender a programar es construir, equivocarse, inve
 - 🧩 Fortaleciendo mis fundamentos de programación y POO.
 - 🛠️ Desarrollando proyectos personales y académicos.
 - 🎯 Trabajando para convertirme en un desarrollador cada vez más completo.
-
-> `No se trata de saberlo todo, sino de nunca dejar de aprender.`
 
 ---
 
@@ -59,7 +46,7 @@ Estas son las tecnologías con las que trabajo o que estoy aprendiendo.
 
 ### 🗄️ Bases de datos
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL y MongoDB"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="SQLserver y MongoDB"/>
 
 ### ⚙️ Herramientas y entorno
 
