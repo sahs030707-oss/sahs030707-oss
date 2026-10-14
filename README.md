@@ -9,9 +9,6 @@
 
 ---
 
-## `Sobre mí`
-
-
 ¡Hola! 👋 Soy **Steven Hernandez**, un apasionado por la programación, la tecnología y el desarrollo de software.
 
 Creo que la mejor manera de aprender a programar es construir, equivocarse, investigar y volver a intentarlo.
@@ -59,12 +56,7 @@ Estas son las tecnologías con las que trabajo o que estoy aprendiendo.
 *Las tecnologías mostradas representan herramientas que utilizo o exploro; no implican un dominio avanzado de cada una.*
 
 ---
-
-## `Conecta conmigo`
-
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
 
 📧 **Correo:** sahs030707@gmail.com
 
